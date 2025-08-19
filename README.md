@@ -3,7 +3,7 @@ tanggal 19 agustus 2025
 
 # PCQ Configuration
 
-![m]()
+![m](IDN.png)
 
 # langkah langkah konfigurasi
 1. buka mikrotik pilih menu QUEUES > queue types
